@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSTetrisSettings init.level0="0" init.level1="0" tetris.mode="SINGLE">
+  <tetris.rank date="1642313989019" level="2" lines="55" name=" GD" score="5260"/>
+  <tetris.rank date="1642313394865" level="0" lines="16" name="BB" score="1320"/>
+  <tetris.rank date="1642314205540" level="0" lines="5" name="" score="465"/>
+  <tetris.rank date="1642317455252" level="0" lines="0" name="" score="200"/>
+  <tetris.rank date="1642323447861" level="0" lines="0" name="" score="200"/>
+  <tetris.rank date="1642392050778" level="0" lines="0" name="" score="170"/>
+  <tetris.rank date="1642331036493" level="0" lines="0" name="" score="150"/>
+  <tetris.rank date="1642313405594" level="0" lines="0" name=" GD" score="140"/>
+  <tetris.rank date="1642313414788" level="0" lines="0" name="        D" score="140"/>
+  <tetris.rank date="1642314081683" level="0" lines="0" name="" score="140"/>
+  <tetris.rank date="1642385125735" level="0" lines="0" name="" score="140"/>
+  <tetris.rank date="1642515733273" level="0" lines="0" name="" score="40"/>
+  <tetris.rank date="1642314205540" level="0" lines="0" name="" score="30"/>
+  <tetris.rank date="1642314107945" level="0" lines="0" name="" score="20"/>
+  <tetris.rank date="1642314107945" level="0" lines="0" name="" score="20"/>
+  <tetris.rank date="1642347104202" level="0" lines="0" name="" score="10"/>
+  <tetris.rank date="1642329053610" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1642344857460" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1642347506437" level="0" lines="0" name="" score="0"/>
+</GSTetrisSettings>
