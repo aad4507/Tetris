@@ -33,4 +33,4 @@ https://www.bensound.com/royalty-free-music/electronica
 x
 
 ## 7. 프로그램 작성자 및 도움을 준사람
-작성자 - 김봉규 / 도움 - x
+작성자 - 김봉규
