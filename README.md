@@ -12,7 +12,7 @@ src/org/...파일에 소스코드들이 저장되어 있습니다.
 ## 2. 프로젝트 설치하는 방법
 eclipse만 필요하면 됩니다. 
 
-단 실행시 음악이 재생되지 않는다면 https://sourceforge.net/projects/javalayer/에서 JavaLayer를 다운받으셔야 합니다. 링크 접속이 되지않는다면 JavaLayer를 검색하시면 됩니다.
+단 실행시 음악이 재생되지 않는다면 https://sourceforge.net/projects/javalayer/ 에서 JavaLayer를 다운받으셔야 합니다. 링크 접속이 되지않는다면 JavaLayer를 검색하시면 됩니다.
 
 ## 3. 프로젝트 사용법
 누구나 해봣을법한 tetris 게임입니다. 더 자세한 설명은 이클립스에서 실행하시면 게임설명란이 따로있습니다
